@@ -15,6 +15,7 @@ PHP
 SQL
 Laravel
 Git
+Python
 <br />
 <br />
 

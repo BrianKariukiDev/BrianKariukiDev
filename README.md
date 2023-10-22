@@ -16,6 +16,7 @@ SQL
 Laravel
 Git
 Python
+C programming
 <br />
 <br />
 

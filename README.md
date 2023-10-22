@@ -8,6 +8,14 @@
 ### Connect with me:
 
 ### Languages and Tools:
+Laravel
+Vue JS
+JavaScript
+HTML5
+CSS3
+SQL
+Postgres
+Git
 <br />
 <br />
 

@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning and working on PHP and Laravel framework
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about full stack development
+- 🥅 2024 Goals: Learn more about full stack development
 ### Connect with me:
 
 ### Languages and Tools:
